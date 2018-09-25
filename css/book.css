@@ -12,3 +12,8 @@ figcaption {
   font-family: "Times New Roman"
   color: green;
 }
+
+abbr {
+  font-family: "Courier"
+  color: red;
+}
