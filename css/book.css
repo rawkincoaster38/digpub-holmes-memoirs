@@ -1,11 +1,13 @@
 h1 {
 
   font-family: sans-serif;
-  color: blue
+  color: blue;
+  font-size: 1.5em;
 }
 
 chapter-subheading {
  font-family: "Apple Chancery", sans-serif;
-color: red
+color: red;
+font-size: 1em
 
 }
