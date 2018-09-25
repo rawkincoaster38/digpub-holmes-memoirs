@@ -7,3 +7,8 @@ p {
 font-family: "Arial"
 color: gray;
 }
+
+figcaption {
+  font-family: "Times New Roman"
+  color: green;
+}
