@@ -8,6 +8,11 @@ h1 {
 chapter-title {
  font-family: "Apple Chancery", sans-serif;
 color: red;
-font-size: 1em
+font-size: 1em;
 
 }
+ time {
+font-weight: 200;
+
+
+ }
