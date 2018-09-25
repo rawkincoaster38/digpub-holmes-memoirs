@@ -1,17 +1,19 @@
 h3 {
-font-family: sans-serif;
+font-family: "Apple Chancery",sans-serif;
   color: blue;
   font-size: 1.5em;
 }
 
-chapter-title {
- font-family: "Apple Chancery", sans-serif;
-color: red;
-font-size: 1em;
-}
 
  time {
-font-weight: 200;
-
-
+font-weight: 550;
  }
+
+p {
+font-family: serif;
+  color: green
+}
+abbr {
+font-style: italic;
+  
+}
