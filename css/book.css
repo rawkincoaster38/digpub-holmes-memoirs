@@ -4,16 +4,16 @@ color: blue;
 }
 
 p {
-font-family: "Arial"
+font-family: "Arial";
 color: gray;
 }
 
 figcaption {
-  font-family: "Times New Roman"
+  font-family: "Times New Roman";
   color: green;
 }
 
 abbr {
-  font-family: "Courier"
+  font-family: "Courier";
   color: red;
 }
